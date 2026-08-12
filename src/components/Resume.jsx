@@ -16,7 +16,7 @@ function Resume() {
             <div className="resume-viewer">
 
                 <iframe
-                    src="/resume.pdf"
+                    src="/RESUME.pdf"
                     title="Anji Resume"
                 ></iframe>
 
