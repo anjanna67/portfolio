@@ -26,7 +26,7 @@ function Resume() {
             <div className="resume-actions">
 
                 <a
-                    href="/resume.pdf"
+                    href="/RESUME.pdf"
                     target="_blank"
                     rel="noreferrer"
                     className="resume-view-btn"
