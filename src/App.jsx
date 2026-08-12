@@ -8,7 +8,7 @@ import Education from "./components/Education";
 import Certifications from "./components/certification";
 import Resume from "./components/Resume";
 import Contact from "./components/contact";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import "./App.css";
 
 function App() {
